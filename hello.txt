@@ -1,3 +1,5 @@
 add word
 
 my name is dulinjun
+
+rename commit 
