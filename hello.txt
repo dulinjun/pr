@@ -3,3 +3,5 @@ add word
 my name is dulinjun
 
 rename commit 
+
+从commit中移除一个文件
