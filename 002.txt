@@ -2,4 +2,4 @@ zhe li de commit -m xin xi ying gai tian cuo le ,xu yao xiu gai
 	staging
 git add -p 002.txt
 git add -p 002.txt002.txt
-
+no
