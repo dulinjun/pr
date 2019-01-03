@@ -4,3 +4,7 @@ git add -p 002.txt
 git add -p 002.txt002.txt
 no
 git commit --amend --onle -m 'xxxxxx'
+
+
+
+git checkout HEAD^ myfile
