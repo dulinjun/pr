@@ -8,3 +8,7 @@ git commit --amend --onle -m 'xxxxxx'
 
 
 git checkout HEAD^ myfile
+
+
+
+git add -i
