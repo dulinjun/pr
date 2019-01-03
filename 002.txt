@@ -12,3 +12,16 @@ git checkout HEAD^ myfile
 
 
 git add -i
+
+
+
+
+
+
+one one one
+
+
+
+
+
+two two two
