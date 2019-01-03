@@ -2,3 +2,27 @@ hello
 
 
 git add -i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+one one one
+
+
+
+
+
+two two two
