@@ -25,3 +25,7 @@ one one one
 
 
 two two two
+
+
+
+git add -p
