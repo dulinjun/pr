@@ -8,24 +8,24 @@ git commit --amend --onle -m 'xxxxxx'
 
 
 git checkout HEAD^ myfile
-
+fdaf
 
 
 git add -i
 
 
-
-
+fada
+fadsfa
 
 
 one one one
 
+fadfaafdasf
 
-
-
-
+fdasfa
+fdadfa
 two two two
-
-
-
+afdasf
+fadasf
+fdafa
 git add -p
